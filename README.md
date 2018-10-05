@@ -3,9 +3,10 @@
 FeelsBook is an app that tracks users' emotions. It allows user to choose their emotion and add comment. The emotions are 
 is timestamped. Date and Comment can be ededted by long clicking on the history output. 
 
-Student counsulted: Md Touhidul Islan Muhammad Khan Debra Lipton 
+Student counsulted: Md Touhidul Islan Muhammad Khan, Debra Lipton, Keng Weng Yap 
 
 Resrouces Used:
+
 Campbell, J. (2015). joshua2ua/lonelyTwitter. Retrieved from https://github.com/joshua2ua/lonelyTwitter
 
 Metha, R. (2018). How can I change the text of a button at runtime on Android?. Retrieved from https://stackoverflow.com
