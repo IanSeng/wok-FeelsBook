@@ -2,6 +2,7 @@
 
 FeelsBook is an app that tracks users' emotions. It allows user to choose their emotion and add comment. The emotions are 
 is timestamped. Date and Comment can be ededted by long clicking on the history output. 
+
 Student counsulted: Md Touhidul Islan Muhammad Khan Debra Lipton 
 
 Resrouces Used:
